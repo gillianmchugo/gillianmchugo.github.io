@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Gillian P. McHugo</title>
+    <link>/tags/markdown/</link>
+      <atom:link href="/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 02:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>Markdown</title>
+      <link>/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>Markdown Basics</title>
+      <link>/post/markdown-basics/</link>
+      <pubDate>Tue, 08 Oct 2019 02:00:00 +0000</pubDate>
+      <guid>/post/markdown-basics/</guid>
+      <description>
+
+&lt;p&gt;Adapted from &lt;a href=&#34;https://hackmd.io/o9dlXtLLRNKGGWR1k4rdqg&#34; title=&#34;See notes&#34; target=&#34;_blank&#34;&gt;notes&lt;/a&gt; I prepared for &lt;a href=&#34;https://ucdcodeclub.github.io/&#34; title=&#34;See website&#34; target=&#34;_blank&#34;&gt;UCD_CodeClub.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; is a simple language used to format text which can then be converted into many different outputs, such as html or pdf files. There are several different &lt;a href=&#34;https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors&#34; target=&#34;_blank&#34;&gt;flavours&lt;/a&gt; of Markdown but most share a common basic syntax. Markdown can even be used in R to make reproducible &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34;&gt;files.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction-to-markdown&#34;&gt;Introduction to Markdown&lt;/h2&gt;
+
+&lt;p&gt;The basics include plain text, &lt;em&gt;italic&lt;/em&gt; or &lt;strong&gt;bold&lt;/strong&gt; text,&lt;/p&gt;
+
+&lt;h2 id=&#34;headers&#34;&gt;headers&lt;/h2&gt;
+
+&lt;h3 id=&#34;of-different-levels&#34;&gt;of different levels,&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;numbered&lt;/li&gt;
+&lt;li&gt;lists,
+
+&lt;ol&gt;
+&lt;li&gt;numbered&lt;/li&gt;
+&lt;li&gt;sublists,&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;unordered&lt;/li&gt;
+&lt;li&gt;lists,
+
+&lt;ul&gt;
+&lt;li&gt;unordered,&lt;/li&gt;
+&lt;li&gt;sublists&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;and &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;links.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;these-can&#34;&gt;&lt;em&gt;These&lt;/em&gt; can&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;be &lt;strong&gt;&lt;em&gt;combined&lt;/em&gt;&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;in &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;many&lt;/strong&gt;&lt;/a&gt; ways.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The above text is produced using:&lt;br /&gt;
+&lt;code&gt;The basics include plain text, *italic* or **bold** text,&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;## headers&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;### of different levels,&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;1. numbered&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;2. lists,&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_1. numbered (where _ indicates space)&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_2. sublists,&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;- unordered&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;- lists,&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_- unordered,&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_- sublists&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;and [links.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;### *These* can&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;1. be ***combined***&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_- in [**many**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ways.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Try it out using &lt;a href=&#34;https://hackmd.io/&#34; target=&#34;_blank&#34;&gt;HackMD,&lt;/a&gt; a realtime collaborative note editor that uses Markdown syntax.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

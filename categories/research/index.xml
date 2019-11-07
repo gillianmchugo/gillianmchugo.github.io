@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Gillian P. McHugo</title>
+    <link>/categories/research/</link>
+      <atom:link href="/categories/research/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 03:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>Research</title>
+      <link>/categories/research/</link>
+    </image>
+    
+    <item>
+      <title>A population genomics analysis of the native Irish Galway sheep breed</title>
+      <link>/post/galway-sheep-paper/</link>
+      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
+      <guid>/post/galway-sheep-paper/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed/&#34; title=&#34;See publication&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; based on my &lt;a href=&#34;/publication/a-population-genomic-analysis-of-the-endangered-galway-sheep-breed-thesis/&#34; title=&#34;See thesis&#34; target=&#34;_blank&#34;&gt;MSc thesis&lt;/a&gt; has now been published in &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fgene.2019.00927/full&#34; title=&#34;See paper&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Frontiers in Genetics&lt;/em&gt;.&lt;/a&gt; It was previously submitted as a &lt;a href=&#34;/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed-preprint/&#34; title=&#34;See publication&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt; on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/645754v1&#34; title=&#34;See preprint&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;bioRxiv&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

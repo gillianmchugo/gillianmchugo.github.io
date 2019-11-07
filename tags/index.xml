@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Gillian P. McHugo</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 03:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>Evolutionary biology</title>
+      <link>/tags/evolutionary-biology/</link>
+      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
+      <guid>/tags/evolutionary-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population genomics</title>
+      <link>/tags/population-genomics/</link>
+      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
+      <guid>/tags/population-genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheep</title>
+      <link>/tags/sheep/</link>
+      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
+      <guid>/tags/sheep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HackMD</title>
+      <link>/tags/hackmd/</link>
+      <pubDate>Tue, 08 Oct 2019 02:00:00 +0000</pubDate>
+      <guid>/tags/hackmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>/tags/markdown/</link>
+      <pubDate>Tue, 08 Oct 2019 02:00:00 +0000</pubDate>
+      <guid>/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Tue, 08 Oct 2019 02:00:00 +0000</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Tue, 08 Oct 2019 01:00:00 +0000</pubDate>
+      <guid>/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cattle</title>
+      <link>/tags/cattle/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/cattle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Trypanosomiasis</title>
+      <link>/tags/trypanosomiasis/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/trypanosomiasis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Biomarkers</title>
+      <link>/tags/biomarkers/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/biomarkers/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mussels</title>
+      <link>/tags/mussels/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/mussels/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pollution</title>
+      <link>/tags/pollution/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/tags/pollution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

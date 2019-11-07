@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>supervised by Professor James G. Wilson | Gillian P. McHugo</title>
+    <link>/authors/supervised-by-professor-james-g.-wilson/</link>
+      <atom:link href="/authors/supervised-by-professor-james-g.-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <description>supervised by Professor James G. Wilson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>supervised by Professor James G. Wilson</title>
+      <link>/authors/supervised-by-professor-james-g.-wilson/</link>
+    </image>
+    
+    <item>
+      <title>BA (Hons) thesis: Mytilus edulis as a bioindicator of water pollution: potential histopathology biomarkers in Dublin Bay and Newquay, Co. Clare</title>
+      <link>/publication/mytilus-edulis-histopathology-as-a-bioindicator-of-water-pollution/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mytilus-edulis-histopathology-as-a-bioindicator-of-water-pollution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

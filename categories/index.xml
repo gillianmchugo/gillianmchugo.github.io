@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories | Gillian P. McHugo</title>
+    <link>/categories/</link>
+      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 03:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>Categories</title>
+      <link>/categories/</link>
+    </image>
+    
+    <item>
+      <title>Research</title>
+      <link>/categories/research/</link>
+      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
+      <guid>/categories/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UCD_CodeClub</title>
+      <link>/categories/ucd_codeclub/</link>
+      <pubDate>Tue, 08 Oct 2019 02:00:00 +0000</pubDate>
+      <guid>/categories/ucd_codeclub/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

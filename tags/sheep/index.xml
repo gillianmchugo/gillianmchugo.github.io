@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheep | Gillian P. McHugo</title>
+    <link>/tags/sheep/</link>
+      <atom:link href="/tags/sheep/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sheep</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 03:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>Sheep</title>
+      <link>/tags/sheep/</link>
+    </image>
+    
+    <item>
+      <title>A population genomics analysis of the native Irish Galway sheep breed</title>
+      <link>/post/galway-sheep-paper/</link>
+      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
+      <guid>/post/galway-sheep-paper/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed/&#34; title=&#34;See publication&#34; target=&#34;_blank&#34;&gt;paper&lt;/a&gt; based on my &lt;a href=&#34;/publication/a-population-genomic-analysis-of-the-endangered-galway-sheep-breed-thesis/&#34; title=&#34;See thesis&#34; target=&#34;_blank&#34;&gt;MSc thesis&lt;/a&gt; has now been published in &lt;a href=&#34;https://www.frontiersin.org/articles/10.3389/fgene.2019.00927/full&#34; title=&#34;See paper&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;Frontiers in Genetics&lt;/em&gt;.&lt;/a&gt; It was previously submitted as a &lt;a href=&#34;/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed-preprint/&#34; title=&#34;See publication&#34; target=&#34;_blank&#34;&gt;preprint&lt;/a&gt; on &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/645754v1&#34; title=&#34;See preprint&#34; target=&#34;_blank&#34;&gt;&lt;em&gt;bioRxiv&lt;/em&gt;.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A population genomics analysis of the native Irish Galway sheep breed</title>
+      <link>/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed/</link>
+      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed/</guid>
+      <description>&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;div data-badge-popover=&#34;right&#34; class=&#34;altmetric-embed&#34; data-badge-type=&#34;donut&#34; data-altmetric-id=&#34;65964326&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Preprint: A population genomics analysis of the native Irish Galway sheep breed</title>
+      <link>/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed-preprint/</link>
+      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed-preprint/</guid>
+      <description>&lt;p&gt;&lt;script type=&#34;text/javascript&#34; src=&#34;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#34;&gt;&lt;/script&gt;&lt;div data-badge-popover=&#34;right&#34; class=&#34;altmetric-embed&#34; data-badge-type=&#34;donut&#34; data-altmetric-id=&#34;60953743&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MSc thesis: A population genomic analysis of the endangered Galway sheep breed</title>
+      <link>/publication/a-population-genomic-analysis-of-the-endangered-galway-sheep-breed-thesis/</link>
+      <pubDate>Mon, 22 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/a-population-genomic-analysis-of-the-endangered-galway-sheep-breed-thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

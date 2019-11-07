@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pollution | Gillian P. McHugo</title>
+    <link>/tags/pollution/</link>
+      <atom:link href="/tags/pollution/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pollution</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>Pollution</title>
+      <link>/tags/pollution/</link>
+    </image>
+    
+    <item>
+      <title>BA (Hons) thesis: Mytilus edulis as a bioindicator of water pollution: potential histopathology biomarkers in Dublin Bay and Newquay, Co. Clare</title>
+      <link>/publication/mytilus-edulis-histopathology-as-a-bioindicator-of-water-pollution/</link>
+      <pubDate>Mon, 02 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/mytilus-edulis-histopathology-as-a-bioindicator-of-water-pollution/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

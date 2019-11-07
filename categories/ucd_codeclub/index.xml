@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UCD_CodeClub | Gillian P. McHugo</title>
+    <link>/categories/ucd_codeclub/</link>
+      <atom:link href="/categories/ucd_codeclub/index.xml" rel="self" type="application/rss+xml" />
+    <description>UCD_CodeClub</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 02:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/avatar.png</url>
+      <title>UCD_CodeClub</title>
+      <link>/categories/ucd_codeclub/</link>
+    </image>
+    
+    <item>
+      <title>Markdown Basics</title>
+      <link>/post/markdown-basics/</link>
+      <pubDate>Tue, 08 Oct 2019 02:00:00 +0000</pubDate>
+      <guid>/post/markdown-basics/</guid>
+      <description>
+
+&lt;p&gt;Adapted from &lt;a href=&#34;https://hackmd.io/o9dlXtLLRNKGGWR1k4rdqg&#34; title=&#34;See notes&#34; target=&#34;_blank&#34;&gt;notes&lt;/a&gt; I prepared for &lt;a href=&#34;https://ucdcodeclub.github.io/&#34; title=&#34;See website&#34; target=&#34;_blank&#34;&gt;UCD_CodeClub.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-markdown&#34;&gt;What is Markdown?&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Markdown&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; is a simple language used to format text which can then be converted into many different outputs, such as html or pdf files. There are several different &lt;a href=&#34;https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors&#34; target=&#34;_blank&#34;&gt;flavours&lt;/a&gt; of Markdown but most share a common basic syntax. Markdown can even be used in R to make reproducible &lt;a href=&#34;https://rmarkdown.rstudio.com/&#34; target=&#34;_blank&#34;&gt;files.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction-to-markdown&#34;&gt;Introduction to Markdown&lt;/h2&gt;
+
+&lt;p&gt;The basics include plain text, &lt;em&gt;italic&lt;/em&gt; or &lt;strong&gt;bold&lt;/strong&gt; text,&lt;/p&gt;
+
+&lt;h2 id=&#34;headers&#34;&gt;headers&lt;/h2&gt;
+
+&lt;h3 id=&#34;of-different-levels&#34;&gt;of different levels,&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;numbered&lt;/li&gt;
+&lt;li&gt;lists,
+
+&lt;ol&gt;
+&lt;li&gt;numbered&lt;/li&gt;
+&lt;li&gt;sublists,&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;unordered&lt;/li&gt;
+&lt;li&gt;lists,
+
+&lt;ul&gt;
+&lt;li&gt;unordered,&lt;/li&gt;
+&lt;li&gt;sublists&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;and &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;links.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;these-can&#34;&gt;&lt;em&gt;These&lt;/em&gt; can&lt;/h3&gt;
+
+&lt;ol&gt;
+&lt;li&gt;be &lt;strong&gt;&lt;em&gt;combined&lt;/em&gt;&lt;/strong&gt;
+
+&lt;ul&gt;
+&lt;li&gt;in &lt;a href=&#34;https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet&#34; target=&#34;_blank&#34;&gt;&lt;strong&gt;many&lt;/strong&gt;&lt;/a&gt; ways.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The above text is produced using:&lt;br /&gt;
+&lt;code&gt;The basics include plain text, *italic* or **bold** text,&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;## headers&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;### of different levels,&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;1. numbered&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;2. lists,&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_1. numbered (where _ indicates space)&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_2. sublists,&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;- unordered&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;- lists,&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_- unordered,&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_- sublists&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;and [links.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;### *These* can&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;1. be ***combined***&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;_- in [**many**](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) ways.&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Try it out using &lt;a href=&#34;https://hackmd.io/&#34; target=&#34;_blank&#34;&gt;HackMD,&lt;/a&gt; a realtime collaborative note editor that uses Markdown syntax.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Introduction to R</title>
+      <link>/post/introduction-to-r/</link>
+      <pubDate>Tue, 08 Oct 2019 01:00:00 +0000</pubDate>
+      <guid>/post/introduction-to-r/</guid>
+      <description>&lt;p&gt;Adapted from &lt;a href=&#34;https://hackmd.io/q9Iic3qFQe2y8F9RfBY0Lg&#34; title=&#34;See notes&#34; target=&#34;_blank&#34;&gt;notes&lt;/a&gt; I prepared for &lt;a href=&#34;https://ucdcodeclub.github.io/&#34; title=&#34;See website&#34; target=&#34;_blank&#34;&gt;UCD_CodeClub.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you have not already installed R and RStudio, follow this &lt;a href=&#34;/post/install-r-and-rstudio/&#34; title=&#34;See guide&#34; target=&#34;_blank&#34;&gt;guide.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Open RStudio and you should see something like this:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Rt9vCRn.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Code is entered into the console, plots etc. are shown in the output.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://r4ds.had.co.nz/introduction.html&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://d33wubrfki0l68.cloudfront.net/9a23d664f0f49bc2ef8e78bed6277dd48bd2b96d/af132/diagrams/rstudio-console.png&#34; alt=&#34;&#34; /&gt;&lt;em&gt;Image from r4ds.had.co.nz/introduction&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The intial message in the console contains the version number and nickname (which is usually a reference to &lt;a href=&#34;https://livefreeordichotomize.com/2017/09/28/r-release-names/&#34; target=&#34;_blank&#34;&gt;Peanuts&lt;/a&gt; cartoons). &lt;code&gt;Ctrl + L&lt;/code&gt; can be used to clear the console.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.r-project.org/about.html&#34; target=&#34;_blank&#34;&gt;R&lt;/a&gt; is a statistical programming language, so it can be used like a calulator. Try entering the following commands:&lt;br /&gt;
+&lt;code&gt;2 + 2&lt;/code&gt; returns the answer &lt;code&gt;4&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;x &amp;lt;- 1&lt;/code&gt; sets the variable &lt;code&gt;x&lt;/code&gt; equal to &lt;code&gt;1&lt;/code&gt;, entering &lt;code&gt;x&lt;/code&gt; returns the value &lt;code&gt;1&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;y &amp;lt;- 2&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;x + y&lt;/code&gt; returns the value &lt;code&gt;3&lt;/code&gt;&lt;br /&gt;
+R has functions built in to allow more complicated calculations, for example square roots:   &lt;code&gt;sqrt(10)&lt;/code&gt; returns &lt;code&gt;3.162278&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;sqrt(y)&lt;/code&gt; returns &lt;code&gt;1.414214&lt;/code&gt;&lt;br /&gt;
+&lt;code&gt;sqrt()&lt;/code&gt; returns an error: &lt;code&gt;Error in sqrt() : 0 arguments passed to &#39;sqrt&#39; which requires 1&lt;/code&gt; This is because the &lt;code&gt;sqrt&lt;/code&gt; requires an input.&lt;br /&gt;
+&lt;code&gt;?sqrt()&lt;/code&gt; or &lt;code&gt;help(sqrt)&lt;/code&gt; can be used to find information about functions.&lt;/p&gt;
+
+&lt;p&gt;Packages can be used to add more functions to R. We will be using the &lt;a href=&#34;https://www.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;Tidyverse&lt;/a&gt; collection of packages. These can be installed by entering &lt;code&gt;install.packages(&amp;quot;tidyverse&amp;quot;)&lt;/code&gt; and loaded for use using &lt;code&gt;library(tidyverse)&lt;/code&gt;. This includes &lt;a href=&#34;https://ggplot2.tidyverse.org/&#34; target=&#34;_blank&#34;&gt;ggplot2,&lt;/a&gt; which makes plots based on a layered &lt;a href=&#34;http://vita.had.co.nz/papers/layered-grammar.pdf&#34; target=&#34;_blank&#34;&gt;grammar of graphics.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Following &lt;a href=&#34;https://r4ds.had.co.nz/&#34; target=&#34;_blank&#34;&gt;R for Data Science&lt;/a&gt; section 3: &lt;a href=&#34;https://r4ds.had.co.nz/data-visualisation.html&#34; target=&#34;_blank&#34;&gt;Data visualisation&lt;/a&gt; we used the following commands:&lt;br /&gt;
+&lt;code&gt;ggplot2::mpg&lt;/code&gt; to see the practice data set&lt;br /&gt;
+&lt;code&gt;head(ggplot2::mpg)&lt;/code&gt; to see the first 6 rows&lt;br /&gt;
+&lt;code&gt;?ggplot2::mpg&lt;/code&gt; to find more information&lt;br /&gt;
+&lt;code&gt;ggplot(data = mpg)&lt;/code&gt; to make a blank plot&lt;br /&gt;
+&lt;code&gt;ggplot(data = mpg) + geom_point(mapping = aes(x = displ, y = hwy))&lt;/code&gt; to make a dot plot:&lt;br /&gt;
+&lt;a href=&#34;https://r4ds.had.co.nz/data-visualisation.html&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://d33wubrfki0l68.cloudfront.net/9f135433aca5356d04e503887ebab7d475a5f1cd/d33d1/visualize_files/figure-html/unnamed-chunk-4-1.png&#34; alt=&#34;&#34; /&gt;&lt;em&gt;Image from r4ds.had.co.nz/data-visualisation&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;To compare we can look a similar data set and made a plot using base R:&lt;br /&gt;
+&lt;code&gt;data(&amp;quot;mtcars&amp;quot;)&lt;/code&gt; to load the data set&lt;br /&gt;
+&lt;code&gt;head(mtcars)&lt;/code&gt; to see the first 6 rows&lt;br /&gt;
+&lt;code&gt;plot(mtcars$cyl, mtcars$mpg)&lt;/code&gt; to make the plot:&lt;br /&gt;
+&lt;img src=&#34;https://i.imgur.com/CY2PzFW.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;As shown in this &lt;a href=&#34;http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#top&#34; target=&#34;_blank&#34;&gt;gallery,&lt;/a&gt; ggplot can be used to make many different types of graphs. For example:&lt;br /&gt;
+&lt;code&gt;ggplot(mpg, aes(class, cty)) + geom_violin() + labs(title=&amp;quot;Violin plot&amp;quot;, subtitle=&amp;quot;City Mileage vs Class of vehicle&amp;quot;, caption=&amp;quot;Source: mpg&amp;quot;, x=&amp;quot;Class of Vehicle&amp;quot;, y=&amp;quot;City Mileage&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html#top&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;http://r-statistics.co/screenshots/ggplot_masterlist_28.png&#34; alt=&#34;&#34; /&gt;&lt;em&gt;Image from r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Installing R and RStudio</title>
+      <link>/post/install-r-and-rstudio/</link>
+      <pubDate>Tue, 08 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/post/install-r-and-rstudio/</guid>
+      <description>
+
+&lt;p&gt;Adapted from &lt;a href=&#34;https://hackmd.io/vZBi_mgVRrqFZRPIKFctAA&#34; title=&#34;See notes&#34; target=&#34;_blank&#34;&gt;notes&lt;/a&gt; I prepared for &lt;a href=&#34;https://ucdcodeclub.github.io/&#34; title=&#34;See website&#34; target=&#34;_blank&#34;&gt;UCD_CodeClub.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;installing-r&#34;&gt;Installing R&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Go to &lt;a href=&#34;https://cloud.r-project.org/&#34; target=&#34;_blank&#34;&gt;cloud.r-project.org&lt;/a&gt;
+&lt;img src=&#34;https://i.imgur.com/Wau4RI4.jpg&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Click &amp;lsquo;Download R for&amp;hellip;&amp;rsquo; your operating system
+&lt;img src=&#34;https://i.imgur.com/3eOcNyY.jpg&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Click &amp;lsquo;base&amp;rsquo; or &amp;lsquo;Install R for the first time&amp;rsquo;
+&lt;img src=&#34;https://i.imgur.com/2TjoDba.jpg&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Click &amp;lsquo;Download R&amp;hellip;&amp;rsquo;&lt;/li&gt;
+&lt;li&gt;Once it has downloaded open the .exe file and follow the instructions in the installation wizard. The default settings are fine.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;installing-rstudio&#34;&gt;Installing RStudio&lt;/h2&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Go to &lt;a href=&#34;https://www.rstudio.com/products/rstudio/download/&#34; target=&#34;_blank&#34;&gt;rstudio.com/products/rstudio/download&lt;/a&gt;
+&lt;img src=&#34;https://i.imgur.com/a1WdV1B.jpg&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Click &amp;lsquo;Download&amp;rsquo; RStudio Desktop
+&lt;img src=&#34;https://i.imgur.com/rTB179l.jpg&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;li&gt;Click to download the installer for your operating system&lt;/li&gt;
+&lt;li&gt;Once it has downloaded open the .exe file and follow the instructions in the installation wizard. The default settings are fine.&lt;/li&gt;
+&lt;li&gt;Open RStudio
+&lt;img src=&#34;https://i.imgur.com/Rt9vCRn.jpg&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;now-get-started-with-the-basics-of-r-hahahugoshortcode-s0-hbhb-see-guide&#34;&gt;Now get started with the &lt;a href=&#34;/post/introduction-to-r/&#34; title=&#34;See guide&#34; target=&#34;_blank&#34;&gt;basics of R&lt;/a&gt;&lt;/h2&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
