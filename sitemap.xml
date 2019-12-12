@@ -3,8 +3,99 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/authors/admin/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/ancient-dna/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/domesticated-species/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/evolutionary-biology/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/population-genomics/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/research/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/adna-domestication-review/</loc>
+    <lastmod>2019-12-02T03:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/david-e.-machugh/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/gillian-p.-mchugo/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/michael-j.-dover/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/unlocking-the-origins-and-biology-of-domestic-animals-using-ancient-dna-and-paleogenomics/</loc>
+    <lastmod>2019-12-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,11 +110,6 @@
   
   <url>
     <loc>/tags/r/</loc>
-    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2019-11-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,42 +139,7 @@
   </url>
   
   <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-10-08T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/galway-sheep-paper/</loc>
-    <lastmod>2019-10-08T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-10-08T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2019-10-08T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/evolutionary-biology/</loc>
-    <lastmod>2019-10-08T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/population-genomics/</loc>
-    <lastmod>2019-10-08T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2019-10-08T03:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/research/</loc>
     <lastmod>2019-10-08T03:00:00+00:00</lastmod>
   </url>
   
@@ -133,11 +184,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
@@ -153,11 +199,6 @@
   </url>
   
   <url>
-    <loc>/authors/david-e.-machugh/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/dawn-j.-howard/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
@@ -168,17 +209,12 @@
   </url>
   
   <url>
-    <loc>/authors/gillian-p.-mchugo/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/ian-w.-richardson/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/authors/imtiaz-a.-randhawa/</loc>
+    <loc>/authors/imtiaz-a.-s.-randhawa/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -188,27 +224,12 @@
   </url>
   
   <url>
-    <loc>/authors/michael-j.-dover/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/michael-p.-mullen/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-09-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/samuel-s.-browett/</loc>
+    <loc>/authors/sam-browett/</loc>
     <lastmod>2019-09-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -223,22 +244,12 @@
   </url>
   
   <url>
-    <loc>/authors/imtiaz-a.-s.-randhawa/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/authors/michael-dover/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/publication/a-population-genomics-analysis-of-the-native-irish-galway-sheep-breed-preprint/</loc>
-    <lastmod>2019-05-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/sam-browett/</loc>
     <lastmod>2019-05-23T00:00:00+00:00</lastmod>
   </url>
   

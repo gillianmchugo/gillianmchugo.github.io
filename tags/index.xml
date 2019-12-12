@@ -5,12 +5,44 @@
     <link>/tags/</link>
       <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2019 03:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.png</url>
       <title>Tags</title>
       <link>/tags/</link>
     </image>
+    
+    <item>
+      <title>Ancient DNA</title>
+      <link>/tags/ancient-dna/</link>
+      <pubDate>Mon, 02 Dec 2019 03:00:00 +0000</pubDate>
+      <guid>/tags/ancient-dna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domesticated species</title>
+      <link>/tags/domesticated-species/</link>
+      <pubDate>Mon, 02 Dec 2019 03:00:00 +0000</pubDate>
+      <guid>/tags/domesticated-species/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolutionary biology</title>
+      <link>/tags/evolutionary-biology/</link>
+      <pubDate>Mon, 02 Dec 2019 03:00:00 +0000</pubDate>
+      <guid>/tags/evolutionary-biology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Population genomics</title>
+      <link>/tags/population-genomics/</link>
+      <pubDate>Mon, 02 Dec 2019 03:00:00 +0000</pubDate>
+      <guid>/tags/population-genomics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GitHub</title>
@@ -41,22 +73,6 @@
       <link>/tags/website/</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
       <guid>/tags/website/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Evolutionary biology</title>
-      <link>/tags/evolutionary-biology/</link>
-      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
-      <guid>/tags/evolutionary-biology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Population genomics</title>
-      <link>/tags/population-genomics/</link>
-      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
-      <guid>/tags/population-genomics/</guid>
       <description></description>
     </item>
     

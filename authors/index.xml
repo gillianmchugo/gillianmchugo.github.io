@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Oct 2019 03:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Dec 2019 03:00:00 +0000</lastBuildDate>
     <image>
       <url>/img/avatar.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>/authors/admin/</link>
-      <pubDate>Tue, 08 Oct 2019 03:00:00 +0000</pubDate>
+      <pubDate>Mon, 02 Dec 2019 03:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
       <description>
 
@@ -45,6 +45,30 @@ bioindicator of water pollution: potential histopathology biomarkers in Dublin B
     </item>
     
     <item>
+      <title>David E. MacHugh</title>
+      <link>/authors/david-e.-machugh/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/david-e.-machugh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gillian P. McHugo</title>
+      <link>/authors/gillian-p.-mchugo/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/gillian-p.-mchugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael J. Dover</title>
+      <link>/authors/michael-j.-dover/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/michael-j.-dover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Carolina N. Correia</title>
       <link>/authors/carolina-n.-correia/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
@@ -57,14 +81,6 @@ bioindicator of water pollution: potential histopathology biomarkers in Dublin B
       <link>/authors/david-a.-magee/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/authors/david-a.-magee/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>David E. MacHugh</title>
-      <link>/authors/david-e.-machugh/</link>
-      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/david-e.-machugh/</guid>
       <description></description>
     </item>
     
@@ -85,14 +101,6 @@ bioindicator of water pollution: potential histopathology biomarkers in Dublin B
     </item>
     
     <item>
-      <title>Gillian P. McHugo</title>
-      <link>/authors/gillian-p.-mchugo/</link>
-      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/gillian-p.-mchugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ian W. Richardson</title>
       <link>/authors/ian-w.-richardson/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
@@ -101,10 +109,10 @@ bioindicator of water pollution: potential histopathology biomarkers in Dublin B
     </item>
     
     <item>
-      <title>Imtiaz A. Randhawa</title>
-      <link>/authors/imtiaz-a.-randhawa/</link>
+      <title>Imtiaz A. S. Randhawa</title>
+      <link>/authors/imtiaz-a.-s.-randhawa/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/imtiaz-a.-randhawa/</guid>
+      <guid>/authors/imtiaz-a.-s.-randhawa/</guid>
       <description></description>
     </item>
     
@@ -117,14 +125,6 @@ bioindicator of water pollution: potential histopathology biomarkers in Dublin B
     </item>
     
     <item>
-      <title>Michael J. Dover</title>
-      <link>/authors/michael-j.-dover/</link>
-      <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/michael-j.-dover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michael P. Mullen</title>
       <link>/authors/michael-p.-mullen/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
@@ -133,10 +133,10 @@ bioindicator of water pollution: potential histopathology biomarkers in Dublin B
     </item>
     
     <item>
-      <title>Samuel S. Browett</title>
-      <link>/authors/samuel-s.-browett/</link>
+      <title>Sam Browett</title>
+      <link>/authors/sam-browett/</link>
       <pubDate>Fri, 06 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/samuel-s.-browett/</guid>
+      <guid>/authors/sam-browett/</guid>
       <description></description>
     </item>
     
@@ -149,26 +149,10 @@ bioindicator of water pollution: potential histopathology biomarkers in Dublin B
     </item>
     
     <item>
-      <title>Imtiaz A. S. Randhawa</title>
-      <link>/authors/imtiaz-a.-s.-randhawa/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/imtiaz-a.-s.-randhawa/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michael Dover</title>
       <link>/authors/michael-dover/</link>
       <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
       <guid>/authors/michael-dover/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sam Browett</title>
-      <link>/authors/sam-browett/</link>
-      <pubDate>Thu, 23 May 2019 00:00:00 +0000</pubDate>
-      <guid>/authors/sam-browett/</guid>
       <description></description>
     </item>
     
