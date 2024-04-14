@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Acknowledgements | Gillian McHugo</title>
+    <link>https://gillianmchugo.github.io/acknowledgement/</link>
+      <atom:link href="https://gillianmchugo.github.io/acknowledgement/index.xml" rel="self" type="application/rss+xml" />
+    <description>Acknowledgements</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gillianmchugo.github.io/media/icon_hu743880228473ec0451707c5fe015dc10_9113_512x512_fill_lanczos_center_3.png</url>
+      <title>Acknowledgements</title>
+      <link>https://gillianmchugo.github.io/acknowledgement/</link>
+    </image>
+    
+    <item>
+      <title>Transcriptomics analysis of the bovine endometrium during the perioestrus period</title>
+      <link>https://gillianmchugo.github.io/acknowledgement/alfattah-et-al-2024-plos-one/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://gillianmchugo.github.io/acknowledgement/alfattah-et-al-2024-plos-one/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;During the oestrous cycle, the bovine endometrium undergoes morphological and functional changes, which are regulated by alterations in the levels of oestrogen and progesterone and consequent changes in gene expression. To clarify these changes before and after oestrus, RNA-seq was used to profile the transcriptome of oestrus-synchronized beef heifers. Endometrial samples were collected from 29 animals, which were slaughtered in six groups beginning 12 h after the withdrawal of intravaginal progesterone releasing devices until seven days post-oestrus onset (luteal phase). The groups represented proestrus, early oestrus, metoestrus and early dioestrus (luteal phase). Changes in gene expression were estimated relative to gene expression at oestrus. Ingenuity&lt;sup&gt;®&lt;/sup&gt; Pathway Analysis (IPA&lt;sup&gt;®&lt;/sup&gt;) was used to identify canonical pathways and functional processes of biological importance. A total of 5,845 differentially expressed genes (DEGs) were identified. The lowest number of DEGs was observed at the 12 h post-oestrus time point, whereas the greatest number was observed at Day 7 post-oestrus onset (luteal phase). A total of 2,748 DEGs at this time point did not overlap with any other time points. Prior to oestrus, Neurological disease and Organismal injury and abnormalities appeared among the top IPA&lt;sup&gt;®&lt;/sup&gt; diseases and functions categories, with upregulation of genes involved in neurogenesis. Lipid metabolism was upregulated before oestrus and downregulated at 48h post-oestrus, at which point an upregulation of immune-related pathways was observed. In contrast, in the luteal phase the Lipid metabolism and Small molecule biochemistry pathways were upregulated.&lt;/p&gt;
+&lt;p&gt;     &lt;strong&gt;Type&lt;/strong&gt;        &lt;a href=&#34;https://gillianmchugo.github.io/acknowledgement&#34;&gt;Acknowledgement&lt;/a&gt;&lt;br&gt;
+     &lt;strong&gt;Publication&lt;/strong&gt;    &lt;em&gt;PLOS ONE&lt;/em&gt;, &lt;em&gt;19&lt;/em&gt;(3), e0301005
+&lt;br&gt;
+&lt;br&gt;
+
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1371/journal.pone.0301005&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34; 
+            data-style=&#34;small_circle&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;donut&#34;
+            data-doi=&#34;10.1371/journal.pone.0301005&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Common protein-coding variants influence the racing phenotype in galloping racehorse breeds</title>
+      <link>https://gillianmchugo.github.io/acknowledgement/han-et-al-2022-communications-biology/</link>
+      <pubDate>Tue, 13 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://gillianmchugo.github.io/acknowledgement/han-et-al-2022-communications-biology/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Selection for system-wide morphological, physiological, and metabolic adaptations has led to extreme athletic phenotypes among geographically diverse horse breeds. Here, we identify genes contributing to exercise adaptation in racehorses by applying genomics approaches for racing performance, an end-point athletic phenotype. Using an integrative genomics strategy to first combine population genomics results with skeletal muscle exercise and training transcriptomic data, followed by whole-genome resequencing of Asian horses, we identify protein-coding variants in genes of interest in galloping racehorse breeds (Arabian, Mongolian and Thoroughbred). A core set of genes, &lt;em&gt;G6PC2&lt;/em&gt;, &lt;em&gt;HDAC9&lt;/em&gt;, &lt;em&gt;KTN1&lt;/em&gt;, &lt;em&gt;MYLK2&lt;/em&gt;, &lt;em&gt;NTM&lt;/em&gt;, &lt;em&gt;SLC16A1&lt;/em&gt; and &lt;em&gt;SYNDIG1&lt;/em&gt;, with central roles in muscle, metabolism, and neurobiology, are key drivers of the racing phenotype. Although racing potential is a multifactorial trait, the genomic architecture shaping the common athletic phenotype in horse populations bred for racing provides evidence for the influence of protein-coding variants in fundamental exercise-relevant genes. Variation in these genes may therefore be exploited for genetic improvement of horse populations towards specific types of racing.&lt;/p&gt;
+&lt;p&gt;     &lt;strong&gt;Type&lt;/strong&gt;        &lt;a href=&#34;https://gillianmchugo.github.io/acknowledgement&#34;&gt;Acknowledgement&lt;/a&gt;&lt;br&gt;
+     &lt;strong&gt;Publication&lt;/strong&gt;    &lt;em&gt;Communications Biology&lt;/em&gt;, &lt;em&gt;5&lt;/em&gt;, 1320
+&lt;br&gt;
+&lt;br&gt;
+
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1038/s42003-022-04206-x&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34; 
+            data-style=&#34;small_circle&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;donut&#34;
+            data-doi=&#34;10.1038/s42003-022-04206-x&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mycobacterial infection of precision-cut lung slices reveals type 1 interferon pathway is locally induced by 𝘔𝘺𝘤𝘰𝘣𝘢𝘤𝘵𝘦𝘳𝘪𝘶𝘮 𝘣𝘰𝘷𝘪𝘴 but not 𝘔. 𝘵𝘶𝘣𝘦𝘳𝘤𝘶𝘭𝘰𝘴𝘪𝘴 in a cattle breed</title>
+      <link>https://gillianmchugo.github.io/acknowledgement/remot-et-al-2021-frontiers-in-veterinary-science/</link>
+      <pubDate>Fri, 09 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://gillianmchugo.github.io/acknowledgement/remot-et-al-2021-frontiers-in-veterinary-science/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;Tuberculosis exacts a terrible toll on human and animal health. While &lt;em&gt;Mycobacterium tuberculosis&lt;/em&gt; (Mtb) is restricted to humans, &lt;em&gt;Mycobacterium bovis&lt;/em&gt; (Mb) is present in a large range of mammalian hosts. In cattle, bovine TB (bTB) is a noticeable disease responsible for important economic losses in developed countries and underestimated zoonosis in the developing world. Early interactions that take place between mycobacteria and the lung tissue early after aerosol infection govern the outcome of the disease. In cattle, these early steps remain poorly characterized. The precision-cut lung slice (PCLS) model preserves the structure and cell diversity of the lung. We developed this model in cattle in order to study the early lung response to mycobacterial infection. &lt;em&gt;In situ&lt;/em&gt; imaging of PCLS infected with fluorescent Mb revealed bacilli in the alveolar compartment, in adjacent or inside alveolar macrophages, and in close contact with pneumocytes. We analyzed the global transcriptional lung inflammation signature following infection of PCLS with Mb and Mtb in two French beef breeds: Blonde d&amp;rsquo;Aquitaine and Charolaise. Whereas, lungs from the Blonde d&amp;rsquo;Aquitaine produced high levels of mediators of neutrophil and monocyte recruitment in response to infection, such signatures were not observed in the Charolaise in our study. In the Blonde d&amp;rsquo;Aquitaine lung, whereas the inflammatory response was highly induced by two Mb strains, AF2122 isolated from cattle in the UK and Mb3601 circulating in France, the response against two Mtb strains, H37Rv, the reference laboratory strain, and BTB1558, isolated from zebu in Ethiopia, was very low. Strikingly, the type I interferon pathway was only induced by Mb but not Mtb strains, indicating that this pathway may be involved in mycobacterial virulence and host tropism. Hence, the PCLS model in cattle is a valuable tool to deepen our understanding of early interactions between lung host cells and mycobacteria. It revealed striking differences between cattle breeds and mycobacterial strains. This model could help in deciphering biomarkers of resistance vs. susceptibility to bTB in cattle as such information is still critically needed for bovine genetic selection programs and would greatly help the global effort to eradicate bTB.&lt;/p&gt;
+&lt;p&gt;     &lt;strong&gt;Type&lt;/strong&gt;        &lt;a href=&#34;https://gillianmchugo.github.io/acknowledgement&#34;&gt;Acknowledgement&lt;/a&gt;&lt;br&gt;
+     &lt;strong&gt;Publication&lt;/strong&gt;    &lt;em&gt;Frontiers in Veterinary Science&lt;/em&gt;, &lt;em&gt;8&lt;/em&gt;, 2297-1769
+&lt;br&gt;
+&lt;br&gt;
+
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.3389/fvets.2021.696525&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34; 
+            data-style=&#34;small_circle&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;donut&#34;
+            data-doi=&#34;10.3389/fvets.2021.696525&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Identification of novel molecular markers of mastitis caused by 𝘚𝘵𝘢𝘱𝘩𝘺𝘭𝘰𝘤𝘰𝘤𝘤𝘶𝘴 𝘢𝘶𝘳𝘦𝘶𝘴 using gene expression profiling in two consecutive generations of Chinese Holstein dairy cattle</title>
+      <link>https://gillianmchugo.github.io/acknowledgement/wang-et-al-2020-journal-of-animal-science-and-biotechnology/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://gillianmchugo.github.io/acknowledgement/wang-et-al-2020-journal-of-animal-science-and-biotechnology/</guid>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Background&lt;/strong&gt;&lt;br&gt;
+Mastitis in dairy cows caused by &lt;em&gt;Staphylococcus aureus&lt;/em&gt; is a major problem hindering economic growth in dairy farms worldwide. It is difficult to prevent or eliminate due to its asymptomatic nature and long persistence of infection. Although transcriptomic responses of bovine mammary gland cells to pathogens that cause mastitis have been studied, the common responses of peripheral blood leukocytes to &lt;em&gt;S. aureus&lt;/em&gt; infection across two consecutive generations of dairy cattle have not been investigated.
+&lt;br&gt;&lt;br&gt;&lt;strong&gt;Methods&lt;/strong&gt;&lt;br&gt;
+In the current study, RNA-Seq was used to profile the transcriptomes of peripheral blood leukocytes sampled from &lt;em&gt;S. aureus&lt;/em&gt;-infected mothers and their &lt;em&gt;S. aureus&lt;/em&gt;-infected daughters, and also healthy non-infected mothers and their healthy daughters. Differential gene expression was evaluated as follows: 1) &lt;em&gt;S. aureus&lt;/em&gt;-infected cows versus healthy non-infected cows (S vs. H, which include all the mothers and daughters), 2) &lt;em&gt;S. aureus&lt;/em&gt;-infected mothers versus healthy non-infected mothers (SM vs. HM), and 3) &lt;em&gt;S. aureus&lt;/em&gt;-infected daughters versus healthy non-infected daughters (SMD vs. HMD).
+&lt;br&gt;&lt;br&gt;&lt;strong&gt;Results&lt;/strong&gt;&lt;br&gt;
+Analysis of all identified expressed genes in the four groups (SM, SMD, HM, and HMD) showed that &lt;em&gt;EPOR&lt;/em&gt;, &lt;em&gt;IL9&lt;/em&gt;, &lt;em&gt;IFNL3&lt;/em&gt;, &lt;em&gt;CCL26&lt;/em&gt;, &lt;em&gt;IL26&lt;/em&gt; were exclusively expressed in both the HM and HMD groups, and that they were significantly (&lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05) enriched for the cytokine-cytokine receptor interaction pathway. A total of 17, 13 and 10 differentially expressed genes (DEGs) (FDR &lt;em&gt;P&lt;/em&gt;&lt;sub&gt;adj.&lt;/sub&gt; &amp;lt; 0.1 and |FC| &amp;gt; 1.2) were detected in the three comparisons, respectively. DEGs with &lt;em&gt;P&lt;/em&gt; &amp;lt; 0.05 and |FC| &amp;gt; 2 were used for functional enrichment analyses. For the S vs. H comparison, DEGs detected included &lt;em&gt;CCL20&lt;/em&gt;, &lt;em&gt;IL13&lt;/em&gt; and &lt;em&gt;MMP3&lt;/em&gt;, which are associated with the IL-17 signaling pathway. In the SM vs. HM and SMD vs. HMD comparisons, five (&lt;em&gt;BLA-DQB&lt;/em&gt;, &lt;em&gt;C1R&lt;/em&gt;, &lt;em&gt;C2&lt;/em&gt;, &lt;em&gt;FCGR1A&lt;/em&gt;, and &lt;em&gt;KRT10&lt;/em&gt; and six (&lt;em&gt;BLA-DQB&lt;/em&gt;, &lt;em&gt;C3AR1&lt;/em&gt;, &lt;em&gt;CFI&lt;/em&gt;, &lt;em&gt;FCAR&lt;/em&gt;, &lt;em&gt;FCGR3A&lt;/em&gt;, and &lt;em&gt;LOC10498484&lt;/em&gt;) genes, respectively, were involved in the &lt;em&gt;S. aureus&lt;/em&gt; infection pathway.
+&lt;br&gt;&lt;br&gt;&lt;strong&gt;Conclusions&lt;/strong&gt;&lt;br&gt;
+Our study provides insights into the transcriptomic responses of bovine peripheral blood leukocytes across two generations of cattle naturally infected with &lt;em&gt;S. aureus&lt;/em&gt;. The genes highlighted in this study could serve as expression biomarkers for mastitis and may also contain sequence variation that can be used for genetic improvement of dairy cattle for resilience to mastitis.&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;     &lt;strong&gt;Type&lt;/strong&gt;        &lt;a href=&#34;https://gillianmchugo.github.io/acknowledgement&#34;&gt;Acknowledgement&lt;/a&gt;&lt;br&gt;
+     &lt;strong&gt;Publication&lt;/strong&gt;    &lt;em&gt;Journal of Animal Science and Biotechnology&lt;/em&gt;, &lt;em&gt;11&lt;/em&gt;, 98
+&lt;br&gt;
+&lt;br&gt;
+
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1186/s40104-020-00494-7&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34; 
+            data-style=&#34;small_circle&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;donut&#34;
+            data-doi=&#34;10.1186/s40104-020-00494-7&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
