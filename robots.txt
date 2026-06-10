@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://gillianmchugo.github.io/sitemap.xml

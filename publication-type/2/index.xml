@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Gillian McHugo</title>
+    <link>https://gillianmchugo.github.io/publication-type/2/</link>
+      <atom:link href="https://gillianmchugo.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en</language><lastBuildDate>Sat, 21 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://gillianmchugo.github.io/media/icon_hu743880228473ec0451707c5fe015dc10_9113_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://gillianmchugo.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A functional and integrative genomics analysis of host response to disease caused by infection with 𝘔𝘺𝘤𝘰𝘣𝘢𝘤𝘵𝘦𝘳𝘪𝘶𝘮 𝘵𝘶𝘣𝘦𝘳𝘤𝘶𝘭𝘰𝘴𝘪𝘴 in humans and 𝘔𝘺𝘤𝘰𝘣𝘢𝘤𝘵𝘦𝘳𝘪𝘶𝘮 𝘣𝘰𝘷𝘪𝘴 in cattle</title>
+      <link>https://gillianmchugo.github.io/publication/dover-et-al-2021-irish-journal-of-medical-science/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://gillianmchugo.github.io/publication/dover-et-al-2021-irish-journal-of-medical-science/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Table 1:&lt;/strong&gt; Top canonical pathways detected enriched for DEGs in bAM cells (infected with &lt;em&gt;M. bovis&lt;/em&gt;) and hAM cells (infected with &lt;em&gt;M. tuberculosis&lt;/em&gt;).&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;strong&gt;Bovine alveolar macrophage&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;&lt;em&gt;P&lt;/em&gt;-value&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;Human alveolar macrophage&lt;/strong&gt;&lt;/th&gt;
+&lt;th&gt;&lt;strong&gt;&lt;em&gt;P&lt;/em&gt;-value&lt;/strong&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Neuroinflammation Signalling Pathway&lt;/td&gt;
+&lt;td&gt;3.66 × 10&lt;sup&gt;-30&lt;/sup&gt;&lt;/td&gt;
+&lt;td&gt;Neuroinflammation Signalling Pathway&lt;/td&gt;
+&lt;td&gt;7.36 × 10&lt;sup&gt;-29&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Systemic Lupus Erythematosus In B Cell Signalling Pathway&lt;/td&gt;
+&lt;td&gt;1.79 × 10&lt;sup&gt;-28&lt;/sup&gt;&lt;/td&gt;
+&lt;td&gt;TH1 and TH2 Activation Pathway&lt;/td&gt;
+&lt;td&gt;2.70 × 10&lt;sup&gt;-28&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Role of Macrophages, Fibroblasts and Endothelial Cells In Rheumatoid Arthritis&lt;/td&gt;
+&lt;td&gt;7.01 × 10&lt;sup&gt;-27&lt;/sup&gt;&lt;/td&gt;
+&lt;td&gt;Granulocyte Adhesion and Diapedesis&lt;/td&gt;
+&lt;td&gt;7.37 × 10&lt;sup&gt;-28&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hepatic Fibrosis Signalling Pathway&lt;/td&gt;
+&lt;td&gt;5.98 × 10&lt;sup&gt;-25&lt;/sup&gt;&lt;/td&gt;
+&lt;td&gt;Glucocorticoid Receptor Signalling&lt;/td&gt;
+&lt;td&gt;3.26 × 10&lt;sup&gt;-24&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Type I Diabetes Mellitus Signalling&lt;/td&gt;
+&lt;td&gt;6.11 × 10&lt;sup&gt;-25&lt;/sup&gt;&lt;/td&gt;
+&lt;td&gt;Agranulocyte Adhesion and Diapedesis&lt;/td&gt;
+&lt;td&gt;4.01 × 10&lt;sup&gt;-24&lt;/sup&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Hall TJ, Mullen MP, McHugo GP, Killick KE, Ring SC, Berry DP,
+&lt;em&gt;et al&lt;/em&gt;. Integrative genomics of the mammalian alveolar macrophage
+response to intracellular mycobacteria. &lt;em&gt;bioRxiv&lt;/em&gt;. 2020.&lt;/li&gt;
+&lt;li&gt;Krämer A, Green J, Pollard Jr J, Tugendreich S. Causal analysis
+approaches in Ingenuity Pathway Analysis. Bioinformatics.
+2014; 30(4):523-30.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1007/s11845-021-02718-9&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34; 
+            data-style=&#34;small_circle&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;donut&#34;
+            data-doi=&#34;10.1007/s11845-021-02718-9&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Local ancestry and functional genomics of trypanotolerant and trypanosusceptible admixed African cattle breeds</title>
+      <link>https://gillianmchugo.github.io/publication/mchugo-et-al-2019-human-heredity/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://gillianmchugo.github.io/publication/mchugo-et-al-2019-human-heredity/</guid>
+      <description>
+
+
+
+
+&lt;html&gt;
+    &lt;style&gt;
+        section {
+            background: white;
+            color: black;
+            border-radius: 1em;
+            left: 50% }
+        #inner {
+            display: inline-block;
+            display: flex;
+            justify-content: center }
+    &lt;/style&gt;
+    &lt;section&gt;
+        &lt;div id=&#34;inner&#34;&gt;
+        &lt;script type=&#39;text/javascript&#39; src=&#39;https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js&#39;&gt;&lt;/script&gt;
+            &lt;span style=&#34;float:left&#34;; 
+            class=&#34;__dimensions_badge_embed__&#34; 
+            data-doi=&#34;10.1159/000499459&#34; 
+            data-hide-zero-citations=&#34;true&#34; 
+            data-legend=&#34;always&#34; 
+            data-style=&#34;small_circle&#34;&gt;
+            &lt;/span&gt;
+        &lt;script async src=&#34;https://badge.dimensions.ai/badge.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
+            &lt;div  style=&#34;float:right&#34;; 
+            data-badge-details=&#34;right&#34; 
+            data-badge-type=&#34;donut&#34;
+            data-doi=&#34;10.1159/000499459&#34;   
+            data-condensed=&#34;true&#34; 
+            data-hide-no-mentions=&#34;true&#34; 
+            class=&#34;altmetric-embed&#34;&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/section&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>
